@@ -1,8 +1,8 @@
-# spleef
+# Climber
 
-Spleef custom map for [Ratchet Deadlocked Multiplayer Server](https://github.com/Horizon-Private-Server/).
+Infinite Climber custom map for [Ratchet Deadlocked Multiplayer Server](https://github.com/Horizon-Private-Server/).
 
-![thumbnail](HUD/screenshot.jpg)
+![thumbnail](HUD/screenshot.png)
 
 ## Dependencies
 
@@ -18,5 +18,5 @@ Spleef custom map for [Ratchet Deadlocked Multiplayer Server](https://github.com
 For example:
 ```sh
 cd ~/horizon-forge/Assets/Maps
-git clone https://github.com/Dnawrkshp/deadlocked_spleef.git spleef
+git clone https://github.com/Dnawrkshp/deadlocked_climber.git climber
 ```
